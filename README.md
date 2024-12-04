@@ -10,7 +10,7 @@ Moreover, nepotism fosters public discontent and social division, as it symboliz
 #
 ### Indirect Political Nepotism
 
-![Trumps](https://github.com/user-attachments/assets/7b86a1d3-65b4-4031-8aaf-28c9b9eee10b)
+![Political](https://github.com/user-attachments/assets/ce33b40a-e943-4369-baa4-cf15716b6815)
 
 Publicity, as seen in instances like Barron Trump appearing alongside his father Donald Trump, can blur the lines between personal exposure and familial association. Public figures often involve their family members in public appearances, either intentionally or as a natural extension of their lives, which may amplify the visibility of those family members. In Barron’s case, his presence in events covered by the media often results in significant public attention, even if he is not actively seeking it. This kind of exposure can enhance personal visibility, providing a platform for recognition that others might not have access to without such prominent familial ties.
 
