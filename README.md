@@ -17,7 +17,7 @@ Publicity, as seen in instances like Barron Trump appearing alongside his father
 However, when family members benefit from such publicity without actively engaging in the associated responsibilities or roles, it can spark debates over whether this constitutes an indirect form of nepotism. Barron Trump, by virtue of being the son of a former U.S. president, enjoys public exposure that may provide advantages later in life, such as name recognition or cultural influence. This dynamic illustrates how publicity tied to a public figure can indirectly serve as a springboard for personal exposure, even when the intent is not explicitly to promote or advance the individual’s own agenda. The interplay between publicity and association thus becomes a powerful yet controversial tool in shaping public narratives about family members of influential figures.
 
 #
-### Society
+### Society & Nepotism
 
 ![Peoples](https://github.com/user-attachments/assets/a65090eb-b156-48e0-8a30-30193550426f)
 
