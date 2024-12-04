@@ -57,6 +57,15 @@ Combatting nepotism effectively requires implementing policies that prioritize m
 To further mitigate nepotism, family members of influential figures should not benefit directly or indirectly from the same cause, such as politics, business, or professional endeavors. This separation helps maintain ethical boundaries and avoids conflicts of interest. For example, while a politician’s relative may pursue a career in public service, they should be restricted from roles tied to the politician’s influence or office. Similarly, in business, family members can engage in the industry but must operate independently to avoid perceptions of favoritism or undue advantage. By creating clear distinctions between roles and responsibilities, organizations and institutions can uphold fairness while enabling family members to contribute meaningfully without compromising integrity.
 
 #
+### Nepotism Laws
+
+![Law](https://github.com/user-attachments/assets/e54dddef-b521-4e2a-8f9b-128f5c58deb3)
+
+National and international nepotism laws are designed to address the potential for favoritism in hiring and promotions, particularly in public sectors where fairness and accountability are critical. In the United States, federal law (5 U.S.C. § 3110) prohibits public officials from appointing or promoting relatives within their agencies, ensuring decisions are merit-based rather than influenced by personal relationships. The Civil Service Reform Act of 1978 further reinforces this by categorizing nepotism as a prohibited personnel practice, promoting integrity and competence in federal employment. At the state level, laws vary, with many enforcing similar restrictions in public institutions, such as schools and municipal offices. These regulations help prevent conflicts of interest and maintain public trust in governance and administration.
+
+Internationally, the regulation of nepotism differs across countries, reflecting diverse legal and cultural contexts. For instance, Argentina’s Decree 93/2018 bars high-ranking officials from appointing close relatives to roles within the National Public Sector. In contrast, Canada lacks specific anti-nepotism laws for the private sector but emphasizes merit-based hiring in public institutions. Some nations, such as the Philippines, have struggled with entrenched political dynasties, prompting legislative attempts to limit the influence of familial ties in politics. Despite these efforts, enforcement often varies, with stronger compliance seen in countries with robust legal systems and accountability measures. Together, these frameworks aim to balance fairness and opportunity while addressing the challenges nepotism poses to ethical governance and professional equality.
+
+#
 ### Related Links
 
 [Sociology](https://github.com/sourceduty/Sociology)
