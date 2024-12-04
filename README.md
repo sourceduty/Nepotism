@@ -48,6 +48,15 @@ National nepotism, in a broad sense, refers to a system where political, economi
 Justin Trudeau's rise in Canadian politics, often associated with the legacy of his father, former Prime Minister Pierre Trudeau, serves as an example of perceived nepotism. However, distinguishing between genuine political appeal and the leveraging of a family name for advantage is critical. Voters' choice of Trudeau could be influenced by various factors, including nostalgia for his father's leadership, his own policies, and charisma, rather than purely nepotistic dynamics.
 
 #
+### Without Nepotism
+
+![Money](https://github.com/user-attachments/assets/7d66fe19-bb20-4556-892a-40d1891ef092)
+
+Combatting nepotism effectively requires implementing policies that prioritize merit-based hiring while allowing for family members to be involved under certain conditions. Organizations can establish clear guidelines stating that family members may only be considered for roles if they meet all the necessary qualifications, skills, and experience required for the position. This ensures that candidates are chosen based on competence rather than personal connections. By involving impartial hiring committees or external recruiters, the process becomes more transparent, reducing biases that might favor family members. Additionally, offering equal opportunities to all applicants fosters an inclusive culture, demonstrating that while family involvement is permitted, it is subject to the same rigorous standards as external candidates.
+
+To further mitigate nepotism, family members of influential figures should not benefit directly or indirectly from the same cause, such as politics, business, or professional endeavors. This separation helps maintain ethical boundaries and avoids conflicts of interest. For example, while a politician’s relative may pursue a career in public service, they should be restricted from roles tied to the politician’s influence or office. Similarly, in business, family members can engage in the industry but must operate independently to avoid perceptions of favoritism or undue advantage. By creating clear distinctions between roles and responsibilities, organizations and institutions can uphold fairness while enabling family members to contribute meaningfully without compromising integrity.
+
+#
 ### Related Links
 
 [Sociology](https://github.com/sourceduty/Sociology)
